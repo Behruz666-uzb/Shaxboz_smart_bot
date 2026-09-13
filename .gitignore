@@ -1,0 +1,9 @@
+node_modules
+dist
+miniapp/dist
+miniapp/node_modules
+.env
+bot.db
+.cloudflare
+cloudflared.exe
+database.sqlite
